@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @troyneilson
 - 👀 I’m interested in big data, hobby machining and spending time with my family
-- 🌱 I have PhD, and my peactice area is AI & ML. I also have an MBA
+- 🌱 I have PhD, and my practice area is AI & ML. I also have an MBA
 - 💞️ I’m looking to collaborate on any interesting interseting projects using Python
 - 📫 Send me a message through GitHub if you'd like to get in touch
 
